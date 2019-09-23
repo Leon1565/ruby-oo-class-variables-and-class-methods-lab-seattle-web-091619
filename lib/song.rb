@@ -32,7 +32,7 @@ class Song
   def self.genre_count
     @@genres.each do |value|
       if value == @@genres
-        @@genre_count << valu
+        @@genre_count << value
       end
     end
   end
