@@ -37,7 +37,7 @@ class Song
     end
   end
   
-  def self.artist_count
+  ef self.artist_count
     
   end
   
